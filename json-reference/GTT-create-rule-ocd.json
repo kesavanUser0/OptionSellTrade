@@ -1,0 +1,17 @@
+{
+    "clientid": "AAAB002221",
+    "disclosedqty": 0,
+    "exchange": "nse_fo",
+    "price": 77905,
+    "producttype": "NRML",
+    "qty": 15,
+    "symboltoken": "39488",
+    "tradingsymbol": "BANKNIFTY30JAN2549000CE",
+    "transactiontype": "S",
+    "triggerprice": 78690,
+    "stoplossprice": 70485,
+    "stoplosstriggerprice": 71195,
+    "gttType": "OCO",
+    "ltp_at_order_placement": 74940,
+    "strategyCode": "GTT_Spark_Web"
+}

@@ -1,0 +1,14 @@
+{
+    "duration": "DAY",
+    "exchange": "NSE",
+    "ordertype": "STOPLOSS_LIMIT",
+    "price": "287.50",
+    "producttype": "DELIVERY",
+    "quantity": "1",
+    "stoploss": "0",
+    "symboltoken": "14977",
+    "tradingsymbol": "POWERGRID-EQ",
+    "transactiontype": "SELL",
+    "triggerprice": "288.00",
+    "variety": "STOPLOSS"
+}

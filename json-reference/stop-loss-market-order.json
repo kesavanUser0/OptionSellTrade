@@ -1,0 +1,14 @@
+{
+    "duration": "DAY",
+    "exchange": "NSE",
+    "ordertype": "STOPLOSS_MARKET",
+    "price": "0",
+    "producttype": "DELIVERY",
+    "quantity": "1",
+    "stoploss": "0",
+    "symboltoken": "2283",
+    "tradingsymbol": "MRPL-EQ",
+    "transactiontype": "SELL",
+    "triggerprice": "120.00",
+    "variety": "STOPLOSS"
+}
